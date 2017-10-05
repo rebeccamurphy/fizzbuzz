@@ -1,5 +1,5 @@
 # fizzbuzz
-To run open a terminal in the fizz-buzz-kenzan directory then run:
+To run clone repo then open a terminal in the fizzbuzz directory then run:
 
 java -jar FizzBuzz.jar 
 
